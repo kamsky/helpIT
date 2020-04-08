@@ -1,0 +1,60 @@
+User stories
+->  Marcin
+Ja jako przedstawiciel fundacji chciałbym grupować użytkowników, aby mieć listę swoich wolontariuszy
+
+- wolontariusze powinni mieć własne konta
+- powinny być min. 2 typy użytkoników (wolontariusz i fundacja)
+- lista wolontariuszy przynależących do fundacji (jeśli wolontariusz tego chce)
+- możliwość tworzenia grup
+
+
+Ja jako wolontariusz chciałbym dodawać wpisy na stronę fundacji, aby czynnie działać dla niej
+
+- fundacja ma własny widok
+- wolontariusz może dodawać wpisy - zdjęcia + tekst
+- jest data wpisu oraz autor
+- wolontariusz może dodawać wpisy do różnych fundacji
+
+
+
+Ja jako przedstawiciel fundacji chciałbym mieć możliwość zarządzania wpisami moich wolontariuszy aby dodawać odpowiednie treści
+
+->  Jasiek
+Jako fundacja chciałbym mieć możliwość zdobywania funduszy, aby pomóc większej ilości potrzebujących.
+Jako wolontariusz chciałbym agregować swoje wpisy, aby treść zależna od siebie, mogła zostać pogrupowana.
+Jako firma chciałbym aby moje wsparcie było widoczne na stronie fundacji, aby zwiększyć wizerunek swojej marki.
+Jako gość strony chciałbym mieć dostęp do listy fundacji, aby móc przefiltrować i znaleźć fundację wspierającą to co mnie interesuje.
+Jako gość strony chciałbym mieć dostęp do historii aktywności fundacji, aby mieć pewność, że przekazane przeze mnie środki zostaną wykorzystane w prawidłowy sposób.
+Jako osoba potrzebująca chcę mieć możliwość stworzenia ogłoszenia, w którym mogę opisać swoją sytuację, aby jak najszybciej zostać zauważonym przez jedną z fundacji.
+
+
+
+->  Kinga
+Jako fundacja chciałabym mieć możliwość tworzenia wydarzeń by poinformować o nim wszystkich wolontariuszy na raz.
+Jako wolontariusz chciałabym mieć możliwość dołączenia do wydarzenia, aby w szybki sposób poinformować fundacje że w danym terminie będę dostępna do pomocy.
+Jako zewnętrzny(niezalogowany) użytkownik chciałabym mieć dostęp do opisu działalności fundacji by dowiedzieć się o jej misji.
+
+-> Adrian
+·         Jako użytkownik strony powinienem moc przy jej pomocy przekazać 1% swojego podatku ponieważ pomogłoby to w pracy fundacji którą wspieram.
+·         Jako użytkownik chciałbym móc uzyskać transparentna informacje o sposobie wykorzystania funduszy żeby ocenić sposób działania fundacji.
+·         Jako użytkownik chciałbym mieć możliwość zwrócenia się do fundacji za pomocą aplikacji.
+·         Jako zarząd chcielibyśmy żeby aplikacja posiadała GUI o pozytywnie kojarzącej się kolorystyce, oraz była jak najbardziej intuicyjna.
+·         Jako zarząd chcielibyśmy żeby aplikacja umożliwiała kooperacje z portalami społecznościowymi.
+
+
+-> Mikołaj
+Jako wolontariusz chcę mieć możliwość utworzenia bezpiecznego konta, aby być w kontakcie z moją fundacją, którą wspieram.
+Jako fundacja chcę mieć łatwą możliwość ‘moderacji‘ zamieszczanych treści, aby zminimalizować ryzyko pojawienia się farmy trolli.
+Jako użytkownik (zalogowany) chcę mieć możliwość dodania pozytywnego komentarza, aby podziękować za działalność fundacji.
+
+
+
+-> KAMIL
+
+Jako wolontariusz wielu fundacji chcę mieć możliwość wyboru kontekstu w którym się znajduje.
+
+
+Jako fundacja chcę mieć możliwość tworzenia zbiórek na wyznaczony przeze mnie cel.
+
+
+Jako gość strony chciałbym mieć możliwość wyszukiwania fundacji.

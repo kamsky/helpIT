@@ -1,0 +1,14 @@
+1. Nazwy klas rozpoczynamy wielką literą, rzeczownik.
+2. Nazwy metod rozpoczynamy z małej litery, od czasownika.
+3. Nazwy zmiennych rozpoczynamy z małej litery, kolejne wyrazy oddzielamy "_"
+moja_zmienna
+5. Nazwy stałych piszemy WIELKIMI literami, a kolejne człony oddzielamy znakiem podkreślenia.
+
+static final int TO_JEST_STALA;
+6. To nie obowiązek, ale w Javie zwykło się stawiać klamrę otwierającą klasę, metodę, lub pętlę w tej samej linii co wspomniane elementy, zajmuje to mniej miejsca i kod nie jest taki rozlazły - na ekranie zmieści Ci się po prostu więcej kodu i nie będzie trzeba dużo scrollować.
+
+class Klasa {
+    void metoda() {
+        int zmienna;
+    }
+}
